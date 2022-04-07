@@ -1,4 +1,4 @@
-## Hey there 👋
+## Hello Folks 👋
 
 My name is Otávio and I'm a Brazilian 🇧🇷 web and mobile developer, currently working as a FrontEnd JavaScript engineer
 
