@@ -64,3 +64,5 @@ I have experience with the following languages and Tools
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daugusto.otavio@gmail.com?subject=Hi%20there,%20found%20your%20email%20on%20your%20github%20profile)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ot%C3%A1vio-augusto-daros-324b92113?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BqDYJrDw8TsSllGoCKfOraQ%3D%3D)
+                                                                                                                          
+![Snake animation](https://github.com/devota2508/devota2508/blob/output/github-contribution-grid-snake.svg)
