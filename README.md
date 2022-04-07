@@ -66,3 +66,6 @@ I have experience with the following languages and Tools
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ot%C3%A1vio-augusto-daros-324b92113?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BqDYJrDw8TsSllGoCKfOraQ%3D%3D)
                                                                                                                           
 
+ <div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devota2508&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+</div>
